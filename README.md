@@ -19,6 +19,8 @@ I am Ame, nice to meet you ^^
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white)
 
 #### Currently working on
+[![booru-rs](https://github-readme-stats.vercel.app/api/pin/?username=ajiiisai&repo=booru-rs&show_icons=true&theme=dracula&hide=stars&bg_color=22272e&title_color=f48fb1&icon_color=f48fb1&border_color=444c56&text_color=ADBAC7)](https://github.com/ajiiisai/booru-rs)
+
 [![Anamnesis](https://github-readme-stats.vercel.app/api/pin/?username=imchillin&repo=Anamnesis&show_icons=true&theme=dracula&hide=stars&bg_color=22272e&title_color=f48fb1&icon_color=f48fb1&border_color=444c56&text_color=ADBAC7)](https://github.com/imchillin/Anamnesis)
 
 [![FFLogs.NET](https://github-readme-stats.vercel.app/api/pin/?username=ajiiisai&repo=FFLogs.Net&show_icons=true&theme=dracula&hide=stars&bg_color=22272e&title_color=f48fb1&icon_color=f48fb1&border_color=444c56&text_color=ADBAC7)](https://github.com/ajiiisai/FFLogs.Net)
